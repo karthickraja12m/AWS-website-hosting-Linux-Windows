@@ -28,4 +28,6 @@ This project is part of my learning journey as a **DevOps Engineer**, focusing o
 
 ## 📁 Project Structure
 
+![image alt](https://github.com/karthickraja12m/AWS-website-hosting-Linux-Windows/blob/8f73fefd11b4aaad8256f1dc7a61f7ab2bc15473/web%20hosting%20output.jpg)
+
 
