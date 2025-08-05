@@ -1,0 +1,14 @@
+4. Opened **port 80** in the security group
+5. Verified Hexashop website in browser using public IP
+
+---
+
+### 🔹 Oxer - Linux EC2 (Apache)
+
+1. Launched **Amazon Linux 2 EC2 instance**
+2. Installed Apache:
+```bash
+sudo yum update -y
+sudo yum install httpd -y
+sudo systemctl start httpd
+sudo systemctl enable httpd
